@@ -4,7 +4,7 @@ import plotly.express as px
 from pathlib import Path
 import json
 
-DATA_PATH = Path("..", "data")
+DATA_PATH = Path("..", "..", "data")
 PERCORSO_IN = Path(DATA_PATH, "in")
 PERCORSO_OUT = Path(DATA_PATH, "out")
 GEOJSON_PATH = Path(PERCORSO_IN, "province.geojson")
