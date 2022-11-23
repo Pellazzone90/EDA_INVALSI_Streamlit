@@ -23,7 +23,7 @@ st.set_page_config(
 #tabs:
 tab1 = st.tabs(["📈 Chart"])
 
-st.title("Possiamo riscontrare un'autocorrelazione spaziale tra l'abilità degli studenti per provincia?")
+st.title("La distribuzione spaziale degli studenti è casuale?")
 col1, col2, col3= st.columns([3,0.1,3.0])
 col1.markdown("##### Punteggio medio Rasch Matematica V Liceo 2020-21:")
 col1.image(LISA_RASCH)
@@ -40,6 +40,7 @@ st.markdown(
     \n\
     \n **Province con punteggi più alti (studenti più abili) si concentrano tra loro vicine e altrettanto fanno le province con punteggi più bassi (studenti meno abili).**\
     \n \
+    \n Il modo in cui gli studenti si localizzano non è casuale! \
     \n Da quanto appare nei grafici così ottenuti, la distribuzione degli studenti migliori si concentra nel Nord Italia,\
     \n sembra evidente il manifestarsi di quel classico divario Nord-Sud che da anni caratterizza il *Belpaese!*"
     )
