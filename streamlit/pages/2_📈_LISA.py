@@ -40,6 +40,6 @@ st.markdown(
     \n\
     \n **Province con punteggi più alti (studenti più abili) si concentrano tra loro vicine e altrettanto fanno le province con punteggi più bassi (studenti meno abili).**\
     \n \
-    \n ##### Possiamo concludere che  non c'è una *correlazione spaziale* significativa tra le adozioni Zanichelli ed il punteggo di Rasch medio per provincia.\
-    \n Il divario **Nord**-**Sud** per l'abilità degli studenti nell'affrontare le prove **INVALSI** è causato da altri fattori endogeni geospaziali."
+    \n Da quanto appare nei grafici così ottenuti, la distribuzione degli studenti migliori si concentra nel Nord Italia\
+    \n sembra evidente il manifestarsi quel classico divario Nord-Sud che caratterizza il Belpaese!"
     )
