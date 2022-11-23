@@ -34,5 +34,11 @@ st.markdown(
     - **Mappa** distribuzione punteggio di *Rasch* (**destra**)
     Tab 🗃 Data:
     - **Dataframe** sorgente dati per i grafici\
+
+    
+    \n La pagina **LISA**\
+
+    \n Tab 📈 Chart:
+    - Visualizzazione cluster geospaziali & Conclusioni
 """
 )
